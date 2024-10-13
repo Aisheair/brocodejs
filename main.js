@@ -437,16 +437,48 @@ comment
     
 // }
 
-const isSunny = true 
+// const isSunny = true 
 
-if(!isSunny){
-    console.log(`it is cloudy`);
+// if(!isSunny){
+//     console.log(`it is cloudy`);
     
+// }
+// else{
+//     console.log(`its not sunny`);
+    
+// }
+
+
+// = assignment opertator 
+// == comparison operator (compar if valus are equal)
+// === strict equality operator (compare if datatypes are equal)
+//  != ineuality operator 
+// !== strict inequality operator
+
+
+const PI = 3.14
+
+if(PI != 3.14){
+    console.log(`that is not pie`);
 }
 else{
-    console.log(`its not sunny`);
+    console.log(`pie`);
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
