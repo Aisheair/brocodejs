@@ -420,13 +420,33 @@ comment
 
 // console.log(username);
 
+//logical operators = user to combine or manipulate coolean values(true or false)
 
+//                AND = &&
+//                OR = ||
+//                NOT = !
 
+// const temp = -9
 
+// if(temp <= 0 || temp > 30){
+//     console.log(`weather is bad`);
+    
+// }
+// else{
+//     console.log(`good weather`);
+    
+// }
 
+const isSunny = true 
 
-
-
+if(!isSunny){
+    console.log(`it is cloudy`);
+    
+}
+else{
+    console.log(`its not sunny`);
+    
+}
 
 
 
