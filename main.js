@@ -456,19 +456,43 @@ comment
 // !== strict inequality operator
 
 
-const PI = 3.14
+// const PI = 3.14
 
-if(PI != 3.14){
-    console.log(`that is not pie`);
-}
-else{
-    console.log(`pie`);
+// if(PI != 3.14){
+//     console.log(`that is not pie`);
+// }
+// else{
+//     console.log(`pie`);
     
-}
+// }
+
+// while loop = repeat some code WHILE some is true
+
+// let username = ""
+
+// while(username === "" || username === null){
+//     username = window.prompt(`enter your name`)
+// }
+//  console.log(`hello ${username}`);
+ 
+// let loggedin = false;
+// let username;
+// let password;
 
 
+// while(!loggedin){
+//     username = window.prompt(`enter your username`)
+//     password = window.prompt(`enter your password`)
 
-
+//     if(username === "myusuername" && password === "myPassword"){
+//         loggedin = true
+//         console.log(`you are loged in!!`);
+//     }
+//     else{
+//         console.log(`invalid credentials`);
+        
+//     }
+// }
 
 
 
